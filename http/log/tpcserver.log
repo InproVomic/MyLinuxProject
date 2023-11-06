@@ -1,0 +1,43 @@
+[Debug],[2023-10-1,20:36:6],[19413]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-1,20:36:6],[19413]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-10-1,20:36:6],[19413]listen success,errno:0,stringerror:Success
+[Debug],[2023-10-1,20:36:48],[19413]method:GET,url:/,version:HTTP/1.1
+[Debug],[2023-10-1,20:36:48],[19413]path:./wwwroot/index.html
+[Debug],[2023-10-1,20:36:48],[19413]suffix:.html
+[Info],[2023-10-1,20:36:48],[19413]read file ./wwwroot/index.html done
+[Debug],[2023-10-1,20:36:49],[19413]method:GET,url:/image/2.jpg,version:HTTP/1.1
+[Debug],[2023-10-1,20:36:49],[19413]path:./wwwroot/image/2.jpg
+[Debug],[2023-10-1,20:36:49],[19413]suffix:t/image/2.jpg
+[Info],[2023-10-1,20:36:49],[19413]read file ./wwwroot/image/2.jpg done
+[Info],[2023-10-1,20:36:50],[19413]Clinet quit...
+[Debug],[2023-10-1,20:36:51],[19413]method:GET,url:/favicon.ico,version:HTTP/1.1
+[Debug],[2023-10-1,20:36:51],[19413]path:./wwwroot/favicon.ico
+[Debug],[2023-10-1,20:36:51],[19413]suffix:t/favicon.ico
+[Info],[2023-10-1,20:36:51],[19413]read file ./wwwroot/err_404.html done
+[Debug],[2023-10-1,20:37:2],[19413]method:GET,url:/,version:HTTP/1.1
+[Debug],[2023-10-1,20:37:2],[19413]path:./wwwroot/index.html
+[Debug],[2023-10-1,20:37:2],[19413]suffix:.html
+[Info],[2023-10-1,20:37:2],[19413]read file ./wwwroot/index.html done
+[Debug],[2023-10-1,20:37:3],[19413]method:GET,url:/image/2.jpg,version:HTTP/1.1
+[Debug],[2023-10-1,20:37:3],[19413]path:./wwwroot/image/2.jpg
+[Debug],[2023-10-1,20:37:3],[19413]suffix:t/image/2.jpg
+[Info],[2023-10-1,20:37:3],[19413]read file ./wwwroot/image/2.jpg done
+[Debug],[2023-10-6,19:0:13],[4341]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-6,19:0:13],[4341]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-10-6,19:0:13],[4341]listen success,errno:0,stringerror:Success
+[Debug],[2023-10-6,19:0:30],[4341]method:GET,url:/,version:HTTP/1.1
+[Debug],[2023-10-6,19:0:30],[4341]path:./wwwroot/index.html
+[Debug],[2023-10-6,19:0:30],[4341]suffix:.html
+[Info],[2023-10-6,19:0:30],[4341]read file ./wwwroot/index.html done
+[Debug],[2023-10-6,19:0:30],[4341]method:GET,url:/image/2.jpg,version:HTTP/1.1
+[Debug],[2023-10-6,19:0:30],[4341]path:./wwwroot/image/2.jpg
+[Debug],[2023-10-6,19:0:30],[4341]suffix:t/image/2.jpg
+[Info],[2023-10-6,19:0:30],[4341]read file ./wwwroot/image/2.jpg done
+[Debug],[2023-10-6,19:0:34],[4341]method:GET,url:/favicon.ico,version:HTTP/1.1
+[Debug],[2023-10-6,19:0:34],[4341]path:./wwwroot/favicon.ico
+[Debug],[2023-10-6,19:0:34],[4341]suffix:t/favicon.ico
+[Info],[2023-10-6,19:0:34],[4341]read file ./wwwroot/err_404.html done
+[Debug],[2023-10-6,19:0:34],[4341]method:GET,url:/file1.html,version:HTTP/1.1
+[Debug],[2023-10-6,19:0:34],[4341]path:./wwwroot/file1.html
+[Debug],[2023-10-6,19:0:34],[4341]suffix:oot/file1.html
+[Info],[2023-10-6,19:0:34],[4341]read file ./wwwroot/err_404.html done

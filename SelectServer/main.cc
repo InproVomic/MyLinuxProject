@@ -1,0 +1,11 @@
+#include "SelectServer.hpp"
+#include <memory>
+
+int main()
+{
+    std::unique_ptr<SelectServer> svr(new SelectServer);
+    svr->InitServer();
+    svr->Start();
+
+    return 0;
+}

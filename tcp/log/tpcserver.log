@@ -1,0 +1,345 @@
+[Debug],[2023-9-16,0:35:32],[27024]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,0:35:32],[27024]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-9-16,0:35:32],[27024]listen success,errno:0,stringerror:Success
+[Info],[2023-9-16,0:35:32],[27024]init server done...,listensock:3
+[Debug],[2023-9-16,0:35:35],[27034]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,0:35:35],[27024]get a new client,client info:[252.127.0.0,44894]
+[Debug],[2023-9-16,0:35:36],[27036]pos:1
+[Debug],[2023-9-16,0:35:36],[27036]targetPackage:10, and inbuffer.size():32
+[Debug],[2023-9-16,0:35:36],[27036]End of the func,and return len:5
+[Debug],[2023-9-16,0:35:36],[27036]ReadPackage return n:5
+[Debug],[2023-9-16,0:35:36],[27036]had AddHeader
+[Debug],[2023-9-16,0:35:36],[27036]pos:22
+[Debug],[2023-9-16,0:35:36],[27036]targetPackage:26, and inbuffer.size():54
+[Debug],[2023-9-16,0:35:36],[27036]End of the func,and return len:0
+[Debug],[2023-9-16,0:35:36],[27036]ReadPackage return n:0
+[Debug],[2023-9-16,0:35:36],[27036]log in else if,and n:0
+[Debug],[2023-9-16,0:35:36],[27034]pos:1
+[Debug],[2023-9-16,0:35:36],[27034]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,0:35:36],[27034]End of the func,and return len:3
+[Debug],[2023-9-16,0:36:30],[27036]pos:29
+[Debug],[2023-9-16,0:36:30],[27036]targetPackage:33, and inbuffer.size():60
+[Debug],[2023-9-16,0:36:30],[27036]End of the func,and return len:0
+[Debug],[2023-9-16,0:36:30],[27036]ReadPackage return n:0
+[Debug],[2023-9-16,0:36:30],[27036]log in else if,and n:0
+[Debug],[2023-9-16,0:36:30],[27036]pos:27
+[Debug],[2023-9-16,0:36:30],[27036]targetPackage:31, and inbuffer.size():59
+[Debug],[2023-9-16,0:36:30],[27036]End of the func,and return len:0
+[Debug],[2023-9-16,0:36:30],[27036]ReadPackage return n:0
+[Debug],[2023-9-16,0:36:30],[27036]log in else if,and n:0
+[Debug],[2023-9-16,0:37:40],[27036]ReadPackage return n:-1
+[Debug],[2023-9-16,0:37:40],[27036]thread quit,client quit,...
+[Debug],[2023-9-16,0:45:14],[29517]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,0:45:14],[29517]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-9-16,0:45:14],[29517]listen success,errno:0,stringerror:Success
+[Info],[2023-9-16,0:45:14],[29517]init server done...,listensock:3
+[Debug],[2023-9-16,0:45:17],[29546]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,0:45:17],[29517]get a new client,client info:[253.127.0.0,57371]
+[Debug],[2023-9-16,0:45:18],[29548]ReadPackage return n:0
+[Debug],[2023-9-16,0:45:18],[29548]log in else if,and n:0
+[Debug],[2023-9-16,0:45:18],[29548]ReadPackage return n:5
+[Debug],[2023-9-16,0:45:18],[29548]had AddHeader
+[Debug],[2023-9-16,0:45:19],[29548]ReadPackage return n:0
+[Debug],[2023-9-16,0:45:19],[29548]log in else if,and n:0
+[Debug],[2023-9-16,0:45:19],[29548]ReadPackage return n:5
+[Debug],[2023-9-16,0:45:19],[29548]had AddHeader
+[Debug],[2023-9-16,0:45:20],[29548]ReadPackage return n:0
+[Debug],[2023-9-16,0:45:20],[29548]log in else if,and n:0
+[Debug],[2023-9-16,0:45:20],[29548]ReadPackage return n:5
+[Debug],[2023-9-16,0:45:20],[29548]had AddHeader
+[Debug],[2023-9-16,0:45:21],[29548]ReadPackage return n:0
+[Debug],[2023-9-16,0:45:21],[29548]log in else if,and n:0
+[Debug],[2023-9-16,0:45:21],[29548]ReadPackage return n:5
+[Debug],[2023-9-16,0:45:21],[29548]had AddHeader
+[Debug],[2023-9-16,0:45:22],[29548]ReadPackage return n:0
+[Debug],[2023-9-16,0:45:22],[29548]log in else if,and n:0
+[Debug],[2023-9-16,0:45:22],[29548]ReadPackage return n:5
+[Debug],[2023-9-16,0:45:22],[29548]had AddHeader
+[Debug],[2023-9-16,0:45:23],[29548]ReadPackage return n:0
+[Debug],[2023-9-16,0:45:23],[29548]log in else if,and n:0
+[Debug],[2023-9-16,0:45:23],[29548]ReadPackage return n:5
+[Debug],[2023-9-16,0:45:23],[29548]had AddHeader
+[Debug],[2023-9-16,0:45:25],[29548]ReadPackage return n:0
+[Debug],[2023-9-16,0:45:25],[29548]log in else if,and n:0
+[Debug],[2023-9-16,0:45:25],[29548]ReadPackage return n:5
+[Debug],[2023-9-16,0:45:25],[29548]had AddHeader
+[Debug],[2023-9-16,0:45:26],[29548]ReadPackage return n:-1
+[Debug],[2023-9-16,0:45:26],[29548]thread quit,client quit,...
+[Debug],[2023-9-16,0:49:1],[30492]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,0:49:1],[30492]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-9-16,0:49:1],[30492]listen success,errno:0,stringerror:Success
+[Info],[2023-9-16,0:49:1],[30492]init server done...,listensock:3
+[Debug],[2023-9-16,0:49:3],[30502]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,0:49:3],[30492]get a new client,client info:[255.127.0.0,23101]
+[Debug],[2023-9-16,0:49:4],[30504]pos:1
+[Debug],[2023-9-16,0:49:4],[30504]targetPackage:10, and inbuffer.size():32
+[Debug],[2023-9-16,0:49:4],[30504]End of the func,and return len:5
+[Debug],[2023-9-16,0:49:4],[30504]ReadPackage return n:5
+[Debug],[2023-9-16,0:49:4],[30504]had AddHeader
+[Debug],[2023-9-16,0:49:4],[30504]pos:22
+[Debug],[2023-9-16,0:49:4],[30504]targetPackage:26, and inbuffer.size():54
+[Debug],[2023-9-16,0:49:4],[30504]End of the func,and return len:0
+[Debug],[2023-9-16,0:49:4],[30504]ReadPackage return n:0
+[Debug],[2023-9-16,0:49:4],[30504]log in else if,and n:0
+[Debug],[2023-9-16,0:49:4],[30502]pos:1
+[Debug],[2023-9-16,0:49:4],[30502]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,0:49:4],[30502]End of the func,and return len:3
+[Debug],[2023-9-16,0:51:41],[31191]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,0:51:41],[31191]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-9-16,0:51:41],[31191]listen success,errno:0,stringerror:Success
+[Info],[2023-9-16,0:51:41],[31191]init server done...,listensock:3
+[Debug],[2023-9-16,0:51:44],[31204]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,0:51:44],[31191]get a new client,client info:[253.127.0.0,41867]
+[Debug],[2023-9-16,0:51:46],[31206]pos:1
+[Debug],[2023-9-16,0:51:46],[31206]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-16,0:51:46],[31206]targetPackage bigger!
+[Debug],[2023-9-16,0:51:46],[31206]ReadPackage return n:0
+[Debug],[2023-9-16,0:51:46],[31206]log in else if,and n:0
+[Debug],[2023-9-16,0:51:46],[31206]pos:1
+[Debug],[2023-9-16,0:51:46],[31206]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-16,0:51:46],[31206]End of the func,and return len:5
+[Debug],[2023-9-16,0:51:46],[31206]ReadPackage return n:5
+[Debug],[2023-9-16,0:51:46],[31206]had AddHeader
+[Debug],[2023-9-16,0:51:46],[31204]pos:1
+[Debug],[2023-9-16,0:51:46],[31204]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,0:51:46],[31204]End of the func,and return len:3
+[Debug],[2023-9-16,0:51:48],[31206]pos:1
+[Debug],[2023-9-16,0:51:48],[31206]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-16,0:51:48],[31206]targetPackage bigger!
+[Debug],[2023-9-16,0:51:48],[31206]ReadPackage return n:0
+[Debug],[2023-9-16,0:51:48],[31206]log in else if,and n:0
+[Debug],[2023-9-16,0:51:48],[31206]pos:1
+[Debug],[2023-9-16,0:51:48],[31206]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-16,0:51:48],[31206]End of the func,and return len:5
+[Debug],[2023-9-16,0:51:48],[31206]ReadPackage return n:5
+[Debug],[2023-9-16,0:51:48],[31206]had AddHeader
+[Debug],[2023-9-16,0:51:48],[31204]pos:1
+[Debug],[2023-9-16,0:51:48],[31204]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,0:51:48],[31204]End of the func,and return len:3
+[Debug],[2023-9-16,0:51:49],[31206]pos:1
+[Debug],[2023-9-16,0:51:49],[31206]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-16,0:51:49],[31206]targetPackage bigger!
+[Debug],[2023-9-16,0:51:49],[31206]ReadPackage return n:0
+[Debug],[2023-9-16,0:51:49],[31206]log in else if,and n:0
+[Debug],[2023-9-16,0:51:49],[31206]pos:1
+[Debug],[2023-9-16,0:51:49],[31206]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-16,0:51:49],[31206]End of the func,and return len:5
+[Debug],[2023-9-16,0:51:49],[31206]ReadPackage return n:5
+[Debug],[2023-9-16,0:51:49],[31206]had AddHeader
+[Debug],[2023-9-16,0:51:49],[31204]pos:1
+[Debug],[2023-9-16,0:51:49],[31204]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,0:51:49],[31204]End of the func,and return len:3
+[Debug],[2023-9-16,11:4:44],[26878]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,11:4:44],[26878]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-9-16,11:4:44],[26878]listen success,errno:0,stringerror:Success
+[Info],[2023-9-16,11:4:44],[26878]init server done...,listensock:3
+[Debug],[2023-9-16,11:4:45],[26884]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-16,11:4:45],[26878]get a new client,client info:[0.0.0.0,0]
+[Debug],[2023-9-16,11:4:46],[26885]pos:1
+[Debug],[2023-9-16,11:4:46],[26885]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:46],[26885]targetPackage bigger!
+[Debug],[2023-9-16,11:4:46],[26885]ReadPackage return n:0
+[Debug],[2023-9-16,11:4:46],[26885]log in else if,and n:0
+[Debug],[2023-9-16,11:4:46],[26885]pos:1
+[Debug],[2023-9-16,11:4:46],[26885]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-16,11:4:46],[26885]End of the func,and return len:5
+[Debug],[2023-9-16,11:4:46],[26885]ReadPackage return n:5
+[Debug],[2023-9-16,11:4:46],[26885]had AddHeader
+[Debug],[2023-9-16,11:4:46],[26884]pos:1
+[Debug],[2023-9-16,11:4:46],[26884]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:46],[26884]End of the func,and return len:3
+[Debug],[2023-9-16,11:4:47],[26885]pos:1
+[Debug],[2023-9-16,11:4:47],[26885]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:47],[26885]targetPackage bigger!
+[Debug],[2023-9-16,11:4:47],[26885]ReadPackage return n:0
+[Debug],[2023-9-16,11:4:47],[26885]log in else if,and n:0
+[Debug],[2023-9-16,11:4:47],[26885]pos:1
+[Debug],[2023-9-16,11:4:47],[26885]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-16,11:4:47],[26885]End of the func,and return len:5
+[Debug],[2023-9-16,11:4:47],[26885]ReadPackage return n:5
+[Debug],[2023-9-16,11:4:47],[26885]had AddHeader
+[Debug],[2023-9-16,11:4:47],[26884]pos:1
+[Debug],[2023-9-16,11:4:47],[26884]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:47],[26884]End of the func,and return len:3
+[Debug],[2023-9-16,11:4:48],[26885]pos:1
+[Debug],[2023-9-16,11:4:48],[26885]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:48],[26885]targetPackage bigger!
+[Debug],[2023-9-16,11:4:48],[26885]ReadPackage return n:0
+[Debug],[2023-9-16,11:4:48],[26885]log in else if,and n:0
+[Debug],[2023-9-16,11:4:48],[26885]pos:1
+[Debug],[2023-9-16,11:4:48],[26885]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-16,11:4:48],[26885]End of the func,and return len:5
+[Debug],[2023-9-16,11:4:48],[26885]ReadPackage return n:5
+[Debug],[2023-9-16,11:4:48],[26885]had AddHeader
+[Debug],[2023-9-16,11:4:48],[26884]pos:1
+[Debug],[2023-9-16,11:4:48],[26884]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:48],[26884]End of the func,and return len:3
+[Debug],[2023-9-16,11:4:49],[26885]pos:1
+[Debug],[2023-9-16,11:4:49],[26885]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:49],[26885]targetPackage bigger!
+[Debug],[2023-9-16,11:4:49],[26885]ReadPackage return n:0
+[Debug],[2023-9-16,11:4:49],[26885]log in else if,and n:0
+[Debug],[2023-9-16,11:4:49],[26885]pos:1
+[Debug],[2023-9-16,11:4:49],[26885]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-16,11:4:49],[26885]End of the func,and return len:5
+[Debug],[2023-9-16,11:4:49],[26885]ReadPackage return n:5
+[Debug],[2023-9-16,11:4:49],[26885]had AddHeader
+[Debug],[2023-9-16,11:4:49],[26884]pos:1
+[Debug],[2023-9-16,11:4:49],[26884]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:49],[26884]End of the func,and return len:3
+[Debug],[2023-9-16,11:4:51],[26885]pos:1
+[Debug],[2023-9-16,11:4:51],[26885]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:51],[26885]targetPackage bigger!
+[Debug],[2023-9-16,11:4:51],[26885]ReadPackage return n:0
+[Debug],[2023-9-16,11:4:51],[26885]log in else if,and n:0
+[Debug],[2023-9-16,11:4:51],[26885]pos:1
+[Debug],[2023-9-16,11:4:51],[26885]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-16,11:4:51],[26885]End of the func,and return len:5
+[Debug],[2023-9-16,11:4:51],[26885]ReadPackage return n:5
+[Debug],[2023-9-16,11:4:51],[26885]had AddHeader
+[Debug],[2023-9-16,11:4:51],[26884]pos:1
+[Debug],[2023-9-16,11:4:51],[26884]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-16,11:4:51],[26884]End of the func,and return len:3
+[Debug],[2023-9-21,19:41:5],[27027]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:41:19],[27097]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:41:25],[27124]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:41:28],[27154]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:41:31],[27163]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:41:35],[27173]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:42:38],[27450]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:42:44],[27467]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:42:51],[27511]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:43:20],[27638]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:54:37],[31146]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:56:8],[31548]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:56:14],[31561]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:56:18],[31595]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:56:25],[31626]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:56:35],[31667]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:56:40],[31702]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:57:35],[31926]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:58:32],[32170]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:58:44],[32219]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:59:12],[32412]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:59:12],[32412]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-9-21,19:59:12],[32412]listen success,errno:0,stringerror:Success
+[Info],[2023-9-21,19:59:12],[32412]init server done...,listensock:3
+[Debug],[2023-9-21,19:59:15],[32422]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:59:15],[32412]get a new client,client info:[0.0.0.0,0]
+[Debug],[2023-9-21,19:59:20],[32423]ReadPackage return n:-1
+[Debug],[2023-9-21,19:59:20],[32423]thread quit,client quit,...
+[Debug],[2023-9-21,19:59:30],[32506]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,19:59:30],[32412]get a new client,client info:[127.0.0.1,40188]
+[Debug],[2023-9-21,19:59:32],[32507]pos:1
+[Debug],[2023-9-21,19:59:32],[32507]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-21,19:59:32],[32507]targetPackage bigger!
+[Debug],[2023-9-21,19:59:32],[32507]ReadPackage return n:0
+[Debug],[2023-9-21,19:59:32],[32507]log in else if,and n:0
+[Debug],[2023-9-21,19:59:32],[32507]pos:1
+[Debug],[2023-9-21,19:59:32],[32507]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-21,19:59:32],[32507]End of the func,and return len:5
+[Debug],[2023-9-21,19:59:32],[32507]ReadPackage return n:5
+[Debug],[2023-9-21,19:59:32],[32507]had AddHeader
+[Debug],[2023-9-21,19:59:32],[32506]pos:1
+[Debug],[2023-9-21,19:59:32],[32506]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-21,19:59:32],[32506]End of the func,and return len:3
+[Debug],[2023-9-21,19:59:35],[32507]pos:1
+[Debug],[2023-9-21,19:59:35],[32507]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-21,19:59:35],[32507]targetPackage bigger!
+[Debug],[2023-9-21,19:59:35],[32507]ReadPackage return n:0
+[Debug],[2023-9-21,19:59:35],[32507]log in else if,and n:0
+[Debug],[2023-9-21,19:59:35],[32507]pos:1
+[Debug],[2023-9-21,19:59:35],[32507]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-21,19:59:35],[32507]End of the func,and return len:5
+[Debug],[2023-9-21,19:59:35],[32507]ReadPackage return n:5
+[Debug],[2023-9-21,19:59:35],[32507]had AddHeader
+[Debug],[2023-9-21,19:59:35],[32506]pos:1
+[Debug],[2023-9-21,19:59:35],[32506]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-21,19:59:35],[32506]End of the func,and return len:3
+[Debug],[2023-9-21,19:59:37],[32507]pos:1
+[Debug],[2023-9-21,19:59:37],[32507]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-21,19:59:37],[32507]targetPackage bigger!
+[Debug],[2023-9-21,19:59:37],[32507]ReadPackage return n:0
+[Debug],[2023-9-21,19:59:37],[32507]log in else if,and n:0
+[Debug],[2023-9-21,19:59:37],[32507]pos:1
+[Debug],[2023-9-21,19:59:37],[32507]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-21,19:59:37],[32507]End of the func,and return len:5
+[Debug],[2023-9-21,19:59:37],[32507]ReadPackage return n:5
+[Debug],[2023-9-21,19:59:37],[32507]had AddHeader
+[Debug],[2023-9-21,19:59:37],[32506]pos:1
+[Debug],[2023-9-21,19:59:37],[32506]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-21,19:59:37],[32506]End of the func,and return len:3
+[Debug],[2023-9-21,19:59:38],[32507]ReadPackage return n:-1
+[Debug],[2023-9-21,19:59:38],[32507]thread quit,client quit,...
+[Debug],[2023-9-21,19:59:55],[32596]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,20:0:16],[32708]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,20:0:19],[32740]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,20:0:22],[32764]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,20:0:22],[32764]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-9-21,20:0:22],[32764]listen success,errno:0,stringerror:Success
+[Info],[2023-9-21,20:0:22],[32764]init server done...,listensock:3
+[Debug],[2023-9-21,20:0:24],[301]create socket success,code:0,errorstring:Success
+[Debug],[2023-9-21,20:0:24],[32764]get a new client,client info:[0.0.0.0,0]
+[Debug],[2023-9-21,20:0:27],[302]pos:1
+[Debug],[2023-9-21,20:0:27],[302]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-9-21,20:0:27],[302]targetPackage bigger!
+[Debug],[2023-9-21,20:0:27],[302]ReadPackage return n:0
+[Debug],[2023-9-21,20:0:27],[302]log in else if,and n:0
+[Debug],[2023-9-21,20:0:27],[302]pos:1
+[Debug],[2023-9-21,20:0:27],[302]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-9-21,20:0:27],[302]End of the func,and return len:5
+[Debug],[2023-9-21,20:0:27],[302]ReadPackage return n:5
+[Debug],[2023-9-21,20:0:27],[302]had AddHeader
+[Debug],[2023-9-21,20:0:27],[301]pos:1
+[Debug],[2023-9-21,20:0:27],[301]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-9-21,20:0:27],[301]End of the func,and return len:3
+[Debug],[2023-9-21,20:0:45],[385]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-1,15:49:37],[9149]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-1,15:49:37],[9149]binding tcpserver success,errno:0,errorstring:Success
+[Debug],[2023-10-1,15:49:37],[9149]listen success,errno:0,stringerror:Success
+[Info],[2023-10-1,15:49:37],[9149]init server done...,listensock:3
+[Debug],[2023-10-1,15:49:51],[9202]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-1,15:50:46],[9458]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-1,15:50:46],[9149]get a new client,client info:[0.0.0.0,0]
+[Debug],[2023-10-1,15:50:51],[9459]ReadPackage return n:-1
+[Debug],[2023-10-1,15:50:51],[9459]thread quit,client quit,...
+[Debug],[2023-10-1,15:51:0],[9529]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-1,15:51:0],[9149]get a new client,client info:[127.0.0.1,50588]
+[Debug],[2023-10-1,15:51:1],[9530]pos:1
+[Debug],[2023-10-1,15:51:1],[9530]targetPackage:10, and inbuffer.size():8
+[Debug],[2023-10-1,15:51:1],[9530]targetPackage bigger!
+[Debug],[2023-10-1,15:51:1],[9530]ReadPackage return n:0
+[Debug],[2023-10-1,15:51:1],[9530]log in else if,and n:0
+[Debug],[2023-10-1,15:51:1],[9530]pos:1
+[Debug],[2023-10-1,15:51:1],[9530]targetPackage:10, and inbuffer.size():10
+[Debug],[2023-10-1,15:51:1],[9530]End of the func,and return len:5
+[Debug],[2023-10-1,15:51:1],[9530]ReadPackage return n:5
+[Debug],[2023-10-1,15:51:1],[9530]had AddHeader
+[Debug],[2023-10-1,15:51:1],[9529]pos:1
+[Debug],[2023-10-1,15:51:1],[9529]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-10-1,15:51:1],[9529]End of the func,and return len:3
+[Debug],[2023-10-1,15:51:2],[9530]ReadPackage return n:-1
+[Debug],[2023-10-1,15:51:2],[9530]thread quit,client quit,...
+[Debug],[2023-10-1,15:51:19],[9644]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-1,15:51:21],[9652]create socket success,code:0,errorstring:Success
+[Debug],[2023-10-1,15:51:23],[9652]pos:1
+[Debug],[2023-10-1,15:51:23],[9652]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-10-1,15:51:23],[9652]End of the func,and return len:3
+[Debug],[2023-10-1,15:51:25],[9652]pos:1
+[Debug],[2023-10-1,15:51:25],[9652]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-10-1,15:51:25],[9652]End of the func,and return len:3
+[Debug],[2023-10-1,15:51:27],[9652]pos:1
+[Debug],[2023-10-1,15:51:27],[9652]targetPackage:9, and inbuffer.size():8
+[Debug],[2023-10-1,15:51:27],[9652]targetPackage bigger!
+[Debug],[2023-10-1,15:51:27],[9652]pos:1
+[Debug],[2023-10-1,15:51:27],[9652]targetPackage:9, and inbuffer.size():9
+[Debug],[2023-10-1,15:51:27],[9652]End of the func,and return len:4
+[Debug],[2023-10-1,15:51:36],[9652]pos:1
+[Debug],[2023-10-1,15:51:36],[9652]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-10-1,15:51:36],[9652]End of the func,and return len:3
+[Debug],[2023-10-1,15:51:39],[9652]pos:1
+[Debug],[2023-10-1,15:51:39],[9652]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-10-1,15:51:39],[9652]End of the func,and return len:3
+[Debug],[2023-10-1,15:51:42],[9652]pos:1
+[Debug],[2023-10-1,15:51:42],[9652]targetPackage:8, and inbuffer.size():8
+[Debug],[2023-10-1,15:51:42],[9652]End of the func,and return len:3
